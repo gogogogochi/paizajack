@@ -1,4 +1,3 @@
-
 .vs/Ikkaku/v15/.suo
 *.db
 *.opendb
@@ -6,16 +5,12 @@
 *.db-shm
 *.db-wal
 *.user
-AutoScript/Debug/AutoScript.tlog/AutoScript.lastbuildstate
-AutoScript/Debug/AutoScript.log
-Debug/Ikkaku.exe
-Debug/Ikkaku.ilk
-Debug/Ikkaku.pdb
+*.lastbuildstate
+*.exe
+*.ilk
+*.pdb
 *.log
 *.tlog
 *.obj
 *.idb
 *.pdb
-source/iostream_split.txt
-source/oya_rate.txt
-source/autook.bat
